@@ -1,13 +1,10 @@
 #ProyectoFinalBioinf2017-II-Majo-Contreras
-
 en este repositorio estaran incluidos mis avances del proyecto final
 
+AVANCE1
 
-
-
-
-**AVANCE1
-
-Para mi trabajo final utilizaré Secuencias de nucleótidos obtenidas con la plataforma illumina, de RNAy DNA purificado de partículas tipo viral en muestras de heces para identificar el viroma contenido en ellas
+Para mi trabajo final **Utilizaré Secuencias de nucleótidos obtenidas con la plataforma illumina, de RNAy DNA purificado de partículas tipo viral en muestras de heces para identificar el viroma contenido en ellas.
 
 Con esto se realizará un análisis de la calidad y edición de las secuencias. Se hará un mapeo de las secuencias contra una base de datos de virus reportados en GenBank. Con las secuencias seleccionadas se hará una búsqueda en BLAST y se realizará un ensamble de novo de genomas completos o parciales.
+
+**
